@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.7",
+    "axios": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "geoip-lite": "^1.4.10",
+    "moment": "^2.30.1",
+    "request-ip": "^3.3.0",
+    "useragent": "^2.3.0"
+  }
+}
