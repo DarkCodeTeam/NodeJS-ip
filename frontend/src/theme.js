@@ -5,28 +5,28 @@ const theme = createTheme({
   palette: {
     mode: 'dark',
     primary: {
-      main: '#00FF88',  // سبز نئونی
+      main: '#00FF88',  
     },
     secondary: {
-      main: '#00C853',  // سبز تیره‌تر
+      main: '#00C853',  
     },
     background: {
-      default: '#0A0A0A',  // مشکی تیره
-      paper: '#121212',    // پس‌زمینه کارت‌ها
+      default: '#0A0A0A', 
+      paper: '#121212',  
     },
     text: {
-      primary: '#E0E0E0',  // متن‌ها خاکستری روشن
-      secondary: '#B9F6CA', // متن‌های فرعی سبز روشن
+      primary: '#E0E0E0', 
+      secondary: '#B9F6CA',
     },
   },
   typography: {
     fontFamily: 'Poppins, Arial, sans-serif',
     h6: {
-      color: '#B9F6CA', // رنگ سرتیتر‌ها سبز روشن
+      color: '#B9F6CA', 
       fontWeight: 600,
     },
     body1: {
-      color: '#E0E0E0',  // رنگ متن‌ها خاکستری روشن
+      color: '#E0E0E0',  
     },
     button: {
       fontWeight: 700,
